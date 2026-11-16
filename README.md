@@ -20,9 +20,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Júnior do Brasil.
+Desenvolvedor focado em Backend com **Java**, **Spring Boot** e **PostgreSQL**.
 
-Tenho experiência prática no desenvolvimento de aplicações mobile e backend, trabalhando com APIs, integração de sistemas e lógica de negócio.
+Atualmente trabalho no desenvolvimento e manutenção de sistemas web *multi-tenant* em produção, lidando com regras de negócio complexas, processamento assíncrono, migrações de banco de dados e otimização de consultas. Também tenho experiência na criação de aplicações mobile com React Native.
 
 ---
 
@@ -69,16 +69,6 @@ Aplicativo mobile focado em segurança de pessoas vulneráveis, com monitorament
 - Sistema de autenticação e cadastro de responsáveis
 - Integração com Firebase para dados em tempo real
 - Funcionalidade de chamada de emergência integrada ao app
-
----
-
-### 🧩 Sistema de Estoque (Backend API)
-API REST desenvolvida em Java com Spring Boot.
-
-- CRUD completo de produtos
-- Arquitetura em camadas
-- Integração com aplicações frontend/mobile
-- Regras de negócio básicas
 
 ---
 
